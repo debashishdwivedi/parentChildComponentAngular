@@ -1,0 +1,25 @@
+
+
+
+
+<div class="container pt-4 mt-4">
+    <div class="row">
+      <div *ngFor="let pro of products" class="col-sm-4">
+         <div class="cardbox" (mouseover)="showMoreFun(pro.id)"  (mouseout)="hideShowMoreFun(pro.id)" >
+              <div class="btnShowMore" style="display:none" id={{pro.id}} (click)="showModal(pro)">SHOW MORE</div>
+              <div class="btnPrice" *ngIf="pro.promoPrice"><span class="linetext">${{pro.price}}  </span> <span class="withoutLine">${{pro.promoPrice}}</span></div>
+              <div class="btnPrice" *ngIf="!pro.promoPrice"><span class="blacktext">${{pro.price}}</span></div>
+    
+            </div>
+            <p class="prodName">{{pro.name}}</p>
+       </div>
+  
+  
+    </div>
+  </div>
+
+  
+<div *ngIf="showModalData">
+    <app-child-component [childdata]="productInfo" (newItemEvent)="addItem($event)" ></app-child-component>
+</div> 
+  

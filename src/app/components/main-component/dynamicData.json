@@ -1,0 +1,63 @@
+{
+    "items":[
+       {
+          "id":701642853695,
+          "name":"Product 1",
+          "price":25,
+          "promoPrice":10,
+          "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+          "facebookLink":"some-link",
+          "twitterLink":"some-link",
+          "pinterestLink":"some-link",
+          "youtubekLink":"some-link",
+          "instagramLink":"some-link"
+       },
+       {
+          "id":701642853696,
+          "name":"Product 2",
+          "price":200,
+          "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+          "facebookLink":"some-link",
+          "youtubekLink":"some-link",
+          "instagramLink":"some-link"
+       },
+       {
+          "id":701642853697,
+          "name":"Product 3",
+          "price":5,
+          "promoPrice":3,
+          "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+          "pinterestLink":"some-link",
+          "youtubekLink":"some-link",
+          "instagramLink":"some-link"
+       },
+       {
+          "id":701642853698,
+          "name":"Product 4",
+          "price":1,
+          "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+          "facebookLink":"some-link",
+          "twitterLink":"some-link",
+          "pinterestLink":"some-link"
+       },
+       {
+          "id":701642853699,
+          "name":"Product 5",
+          "price":9,
+          "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+          "facebookLink":"some-link",
+          "twitterLink":"some-link",
+          "pinterestLink":"some-link",
+          "youtubekLink":"some-link",
+          "instagramLink":"some-link"
+       },
+       {
+          "id":701642853700,
+          "name":"Product 6",
+          "price":8000,
+          "promoPrice":7800,
+          "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+       }
+    ]
+  }
+  

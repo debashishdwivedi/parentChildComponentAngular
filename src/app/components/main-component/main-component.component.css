@@ -1,0 +1,67 @@
+.cardbox {
+    height:300px;
+    background:radial-gradient(51.17% 51.78% at 50% 51.17%, #73909C 0%, #204859 100%);
+ }
+  .prodName{
+    text-align:center;
+    font-weight:bold;
+    padding-top:10px;
+  }
+.btnShowMore{
+  -ms-transform: translateY(140px);
+ transform: translateY(140px);
+ text-align: center;
+ background:#7CBAEA;
+ padding:2px;
+ width: 150px;
+ cursor: pointer;
+ margin: auto;
+}
+.btnPrice {
+ background:#7CBAEA;
+  padding:5px;
+  font-size:16px;
+  float:right;
+  margin-top:230px;
+  font-weight:bold;
+}
+.btnPrice:nth-child(2){
+  margin-top:200px;
+}
+.linetext{
+ text-decoration:line-through;
+ color:#2C303D;
+
+}
+.withoutLine{
+    color:#CE2C52;
+}
+.linetext{
+  color:CE2C52;
+}
+.blacktext{
+    color:#2C303D;
+  }
+.modal-dialog{
+  max-width:900px;
+}
+.modalhead{
+  font-weight: bold;
+}
+.modalboldprice{
+  font-weight: bold;
+  text-decoration:line-through;
+}
+.btnAddToCART{
+  border-radius:25px;
+  padding:10px 30px;
+  background:orange;
+  color: white !important;;
+  font-weight: bold;
+}
+button.close{
+ border: 1px solid orange;
+ border-radius: 50%;
+ padding:5px;
+ padding-top:2px;
+}
